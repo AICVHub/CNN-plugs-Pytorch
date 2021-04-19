@@ -4,7 +4,7 @@
 
 
 
-### List of plugs:
+### List of available plugs:
 
 - [x] DilatedEncoder
 - [x] NonLocal
